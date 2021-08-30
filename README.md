@@ -1,0 +1,2 @@
+# Random-forest
+Applying Random Forest Classifier to Social Network Ads Dataset In this notebook I have applied Random Forest techniques to classify 'Age and salary' based data to wheather customer is going to purchase perticular item or not. About Dataset: Dataset is having five columns['User ID', 'Gender', 'Age', 'EstimatedSalary', 'Purchased']. From which two are used as an independent variables ie 'Age' and 'EstimatedSalary'. Here "Purchased" is dependent variable, need to classify based on independent variables. In case of Random Forest, I got an accuracy around 93%
